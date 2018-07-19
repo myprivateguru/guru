@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.MyPrivateGuru.mobile"
         versionCode = "35000"
         version   = "3.5.0">
-    <name>Moodle</name>
+    <name>MyPrivateGuru</name>
 
     <description>
-        Moodle official app
+        MyPrivateGuru official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://myprivateguru.github.io" email="gurututorialsforu@gmail.com">
+        MyPrivateGuru
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
